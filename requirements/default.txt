@@ -120,7 +120,7 @@ compare-locales==8.2.0 \
     --hash=sha256:59b2bba3b8b0b07fd637d5b2bb6b357cbb7caf9f0b7b33b9a1b44cb03db7376c \
     --hash=sha256:a447d9702cc9d5c891a4ce7f52267357f98748f413bf8252636952ce53617915
     # via -r requirements/default.in
-cryptography==36.0.0 \
+cryptography==38.0.3 \
     --hash=sha256:2049f8b87f449fc6190350de443ee0c1dd631f2ce4fa99efad2984de81031681 \
     --hash=sha256:231c4a69b11f6af79c1495a0e5a85909686ea8db946935224b7825cfb53827ed \
     --hash=sha256:24469d9d33217ffd0ce4582dfcf2a76671af115663a95328f63c99ec7ece61a4 \
