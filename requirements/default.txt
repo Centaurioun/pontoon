@@ -151,7 +151,7 @@ dj-database-url==0.3.0 \
     --hash=sha256:ca01768fdecde134301f3170743226f60edff5c3935f12437378ebd911506353 \
     --hash=sha256:f2e273ed34acbb560962d5cf12917936d8df02297df09bd3089b8546d4584138
     # via -r requirements/default.in
-django==3.2.15 \
+django==3.2.18 \
     --hash=sha256:115baf5049d5cf4163e43492cdc7139c306ed6d451e7d3571fe9612903903713 \
     --hash=sha256:f71934b1a822f14a86c9ac9634053689279cd04ae69cb6ade4a59471b886582b
     # via
